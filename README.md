@@ -136,8 +136,11 @@ Print the list in lexicographic increasing order.
 
 ### Sample Input 0
 1
+
 1
+
 1
+
 2
 
 ### Sample Output 0
@@ -156,8 +159,11 @@ Remove all arrays that sum to n = 2 to leave only the valid permutations.
 
 ### Sample Input 1
 2
+
 2
+
 2
+
 2
 
 ### Sample Output 1
