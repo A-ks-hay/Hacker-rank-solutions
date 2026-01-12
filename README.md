@@ -278,7 +278,7 @@ Marks for Malika are {52, 56, 60} whose average is:
 +
 56
 +
-60
+60/
 3
 =
 56
