@@ -282,11 +282,7 @@ Marks for Malika are {52, 56, 60} whose average is:
 3
 =
 56
-3
-52+56+60
-	​
 
-=56
 ### Sample Input 1
 2
 Harsh 25 26.5 28
