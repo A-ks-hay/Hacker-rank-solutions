@@ -331,3 +331,27 @@ Hello Ross Taylor! You just delved into python.
 ### Explanation 0
 
 The input read by the program is stored as a string data type. A string is a collection of characters.
+
+# Task 7
+
+No Idea!
+
+## Problem
+
+You are given an array and two sets A and B.
+For each element:
+
++1 happiness if in A
+
+-1 happiness if in B
+
+Print the final happiness score.
+
+ ### Sample Input
+3 2
+1 5 3
+3 1
+5 7
+
+### Sample Output
+1
