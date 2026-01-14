@@ -334,7 +334,7 @@ The input read by the program is stored as a string data type. A string is a col
 
 # Task 7
 
-No Idea!
+Happiness score
 
 ## Problem
 
