@@ -39,3 +39,11 @@ range (0, 5)
 
 Here, the range loops over 0 to 4. 5 is excluded.
 
+### Example
+
+This program counts how many times a substring appears inside a string.
+
+It checks each position using slicing and increments count when matched.
+
+Finally, it prints the total count.
+
