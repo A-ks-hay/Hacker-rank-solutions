@@ -34,3 +34,13 @@ this is a string
 ### Sample Output
 
 this-is-a-string
+
+### Explaination
+
+The program takes a sentence as input
+
+Splits the sentence into words using spaces
+
+Joins the words using hyphens (-)
+
+Prints the final string
