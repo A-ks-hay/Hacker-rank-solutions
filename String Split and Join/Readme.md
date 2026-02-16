@@ -8,7 +8,7 @@ In Python, a string can be split on a delimiter.
 
 <img width="656" height="131" alt="image" src="https://github.com/user-attachments/assets/124387d8-d245-44a8-aa39-845cecc9d27b" />
 
-###  Task
+### Task
 You are given a string. Split the string on a " " (space) delimiter and join using a - hyphen.
 
 ### Function Description
